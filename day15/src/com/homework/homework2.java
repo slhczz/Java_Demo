@@ -9,7 +9,6 @@ public class homework2 {
         Scanner sc = new Scanner(System.in);
         System.out.print("收入字符串：");
         String str = sc.next();
-        ArrayList<String> list = new ArrayList<>();
 
         char[] arr = str.toCharArray();
         TreeSet<Character> set = new TreeSet<>();
@@ -20,7 +19,6 @@ public class homework2 {
         while (it.hasNext()){
             System.out.print(it.next());
         }
-
         sc.close();
 
 
