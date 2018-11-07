@@ -1,16 +1,13 @@
 package com.homework.homework2;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.*;
 
 public class Homeowrk2 {
 
     public static void main(String[] args) {
 
-        Set<String> list1 = new HashSet<>();
-        Set<String> list2 = new HashSet<>();
+        List<String> list1 = new ArrayList<>();
+        List<String> list2 = new ArrayList<>();
 
 
         list1.add("a");
@@ -21,14 +18,14 @@ public class Homeowrk2 {
         list2.add("d");
         list2.add("e");
 
-      /*  list1.addAll(list2);
-        System.out.println("并集 "+list1);*/
+       list1.addAll(list2);
+       System.out.println("并集 "+list1);
 
         list1.retainAll(list2);
         System.out.println("交集 "+list1);
 
-      /*  list1.removeAll(list2);
-        System.out.println("差集 "+list1);*/
+        list1.removeAll(list2);
+        System.out.println("差集 "+list1);
     }
 
 }

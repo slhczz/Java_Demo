@@ -12,9 +12,9 @@ public class Homework5 {
         System.out.print("輸入文件夾路徑：");
 
         File file = new File(sc.next());
-        homeWork(file);
+        homeWork(file,"");
     }
-    public static String homeWork(File f){
+    public static String homeWork(File f,String str){
         //判断路径是否存在
         boolean flg = f.exists();
         if(!flg){
@@ -24,9 +24,10 @@ public class Homework5 {
         File[] files = f.listFiles();
         if(files!=null){
             for (File file : files) {
-                System.out.println(file.getAbsolutePath());
+                System.out.println(str+file.getName());
                 if(file.isDirectory()){
-                    homeWork(file);
+                    str += "\t";
+                    homeWork(file,str);
                 }
             }
         }

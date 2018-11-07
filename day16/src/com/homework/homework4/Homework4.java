@@ -1,7 +1,6 @@
 package com.homework.homework4;
 
-import java.util.ArrayList;
-import java.util.Random;
+import java.util.*;
 
 public class Homework4 {
 
@@ -11,6 +10,7 @@ public class Homework4 {
         String[] colors = {"黑桃","红桃","梅花","方片"};
 
         ArrayList<String> list = new ArrayList<>();
+        Map<Integer,String> map = new HashMap<>();
 
         for (String color:colors) {
             for (String num:nums) {
@@ -18,13 +18,21 @@ public class Homework4 {
                 list.add(str);
             }
         }
-
         list.add("小王");
         list.add("大王");
-        ArrayList<String> person1 = new ArrayList<>();
-        ArrayList<String> person2 = new ArrayList<>();
-        ArrayList<String> person3 = new ArrayList<>();
-        ArrayList<String> d = new ArrayList<>();
+
+        for (int i = 0; i < list.size(); i++) {
+            map.put(i,list.get(i));
+        }
+
+//        for (String str: map.values()) {
+//            System.out.println(str);
+//        }
+
+        TreeSet<String> person1 = new TreeSet<>();
+        TreeSet<String> person2 = new TreeSet<>();
+        TreeSet<String> person3 = new TreeSet<>();
+        TreeSet<String> d = new TreeSet<>();
         Random random = new Random();
         int sj = random.nextInt(101);
         //洗牌
