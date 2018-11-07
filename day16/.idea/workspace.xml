@@ -1,25 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa77de2f-9005-4184-80ee-3d65b78e91f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/demo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/homework/homework1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/homework/homework1/Homework1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/homework/homework2/Homeowrk2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/homework/homework3/Homework3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/homework/homework4/Homework4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/homework/homework5/Homework5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day15/src/com/homework/homework2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day15/src/com/homework/homework2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/Demo2.java" afterDir="false" />
+    <list default="true" id="aa77de2f-9005-4184-80ee-3d65b78e91f2" name="Default Changelist" comment="1.0.0.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/homework/homework3/Homework3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/homework/homework3/Homework3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/homework/homework5/Homework5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/homework/homework5/Homework5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,13 +34,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="3565" />
+          <entry key="java" value="4585" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3565" />
+          <entry key="JAVA" value="4585" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -91,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/homework/homework5/Homework5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+            <state relative-caret-position="374">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/homework/homework4/Homework4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+            <state relative-caret-position="396">
+              <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,11 +150,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/homework/homework3/Homework3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="176">
+              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -205,11 +190,11 @@
         <option value="$PROJECT_DIR$/src/com/homework/homework1/Car.java" />
         <option value="$PROJECT_DIR$/src/com/homework/homework1/Homework1.java" />
         <option value="$PROJECT_DIR$/src/com/homework/homework2/Homeowrk2.java" />
-        <option value="$PROJECT_DIR$/src/com/homework/homework3/Homework3.java" />
         <option value="$PROJECT_DIR$/src/com/homework/homework4/Homework5.java" />
         <option value="$PROJECT_DIR$/src/com/demo/Demo3.java" />
-        <option value="$PROJECT_DIR$/src/com/homework/homework5/Homework5.java" />
         <option value="$PROJECT_DIR$/src/com/homework/homework4/Homework4.java" />
+        <option value="$PROJECT_DIR$/src/com/homework/homework5/Homework5.java" />
+        <option value="$PROJECT_DIR$/src/com/homework/homework3/Homework3.java" />
       </list>
     </option>
   </component>
@@ -219,9 +204,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="108" />
-    <option name="y" value="34" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="510" />
+    <option name="y" value="81" />
     <option name="width" value="1399" />
     <option name="height" value="939" />
   </component>
@@ -338,7 +323,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541510063666" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541552513249" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -359,7 +345,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Homework4">
+  <component name="RunManager" selected="Application.Homework3">
     <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.demo.Demo3" />
       <module name="day16" />
@@ -386,12 +372,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.homework.homework1.Homework1" />
+    <configuration name="Homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.homework3.Homework3" />
       <module name="day16" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.homework.homework1.*" />
+          <option name="PATTERN" value="com.homework.homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -426,19 +412,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Homework1" />
       <item itemvalue="Application.Homeowrk2" />
       <item itemvalue="Application.Homework5" />
       <item itemvalue="Application.Demo3" />
       <item itemvalue="Application.Homework4" />
+      <item itemvalue="Application.Homework3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework4" />
-        <item itemvalue="Application.Demo3" />
+        <item itemvalue="Application.Homework3" />
         <item itemvalue="Application.Homework5" />
         <item itemvalue="Application.Homework4" />
-        <item itemvalue="Application.Homeowrk2" />
+        <item itemvalue="Application.Demo3" />
+        <item itemvalue="Application.Homework4" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +438,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541466011942</updated>
-      <workItem from="1541466014732" duration="19282000" />
+      <workItem from="1541466014732" duration="24919000" />
     </task>
     <task id="LOCAL-00001" summary="1.0.0.1">
       <created>1541466085981</created>
@@ -461,11 +447,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541466085981</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.0.0.1">
+      <created>1541510083373</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541510083373</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19282000" />
+    <option name="totallyTimeSpent" value="24919000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -477,7 +470,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="510" y="81" width="1399" height="939" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -485,7 +478,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17803837" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24943988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.329602" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -494,7 +487,7 @@
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5010661" side_tool="true" weight="0.25841478" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.1281216" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.38308457" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39925373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -633,16 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/homework5/Homework5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/homework/homework2/Homeowrk2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -653,20 +636,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/homework/homework3/Homework3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/homework/homework4/Homework4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        <state relative-caret-position="396">
+          <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/homework5/Homework5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/homework/homework3/Homework3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
         </state>
       </provider>
     </entry>
